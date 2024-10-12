@@ -1,6 +1,6 @@
 # نصب V2RayN بر روی ویندوز
 
-بر روی ویندوز از یک نرم‌افزار open source به نام [V2RayN](https://github.com/2dust/v2rayN) استفاده می‌کنیم.
+بر روی ویندوز از یک نرم‌افزار open source به نام [V2RayN](https://github.com/2dust/v2rayN) استفاده می‌کنیم. 
 
 ## پیش‌نیاز
 
